@@ -98,6 +98,8 @@ _기타_
 
 ### 메인 페이지
 <img width="800" alt="image" src="https://github.com/kimIHNiCole/MatchDog/assets/142763051/f4d975ff-1c76-443d-a420-1278590592e9">
+<img width="674" alt="image" src="https://github.com/kimIHNiCole/MatchDog/assets/142763051/46ff3514-f599-4dfa-8dcd-5c624bc7cb7d">
+
 <img width="500" alt="image" src="https://github.com/kimIHNiCole/MatchDog/assets/142763051/3146c3d7-d952-4b16-9c65-d1d50967e6e8">
 
 
