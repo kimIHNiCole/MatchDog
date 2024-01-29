@@ -55,10 +55,11 @@ _기타_
 * [전은호](https://github.com/eh09) - 커뮤니티
 * [정지원](https://github.com/jungjiwon970) - 강아지 프로필 등록 + 신고 관리
 * [차재호](https://github.com/ckwogh) - 랜덤 매칭 리스트 + 데이터 수집
-<br/>
+<br/><br/>
 
 ## 핵심 기능
 <img width="900" alt="image" src="https://github.com/kimIHNiCole/MatchDog/assets/142763051/62e1db3c-c568-4fce-a886-780cc5678d20">
+<br><br/>
 
 ### 매칭 리스트
 > 입력된 동 주소가 일치하는 리스트를 추출합니다.<br><br/>
@@ -81,20 +82,49 @@ _기타_
 > DB에 Default Value를 설정하여 평가를 받을 때마다 +1 / -1 을 처리해 줍니다.<br><br/>
 > 일정 이상의 점수일 때 매너견으로 표시되며 일정 이하의 점수일 때 비매너견으로 표시됩니다.<br><br/>
 
+
+<br><br/>
+
 ## 구현 화면
 
+<br><br/>
+
 ### 회원 가입 페이지
-<img width="623" alt="image" src="https://github.com/kimIHNiCole/MatchDog/assets/142763051/89d307e9-b7e0-435a-b514-bbca692ccff0">
+<img width="472" alt="image" src="https://github.com/kimIHNiCole/MatchDog/assets/142763051/a4bfd08e-80e8-4c26-ad44-db334a2c66ba">
 <img width="516" alt="image" src="https://github.com/kimIHNiCole/MatchDog/assets/142763051/e54542fe-9ab0-4297-8436-d630145aa6e7">
 <img width="445" alt="image" src="https://github.com/kimIHNiCole/MatchDog/assets/142763051/a3aa869e-21d1-4d6e-a79f-e93eb89c0de9">
 
+<br><br/>
+
+### 메인 페이지
+<img width="800" alt="image" src="https://github.com/kimIHNiCole/MatchDog/assets/142763051/f4d975ff-1c76-443d-a420-1278590592e9">
+<img width="500" alt="image" src="https://github.com/kimIHNiCole/MatchDog/assets/142763051/3146c3d7-d952-4b16-9c65-d1d50967e6e8">
 
 
+<br><br/>
+
+### 받은 매칭 리스트 페이지
+<img width="961" alt="image" src="https://github.com/kimIHNiCole/MatchDog/assets/142763051/b9850b21-fcd2-48b1-b35c-98b785771c34">
+
+<br><br/>
 
 
+### 채팅 페이지
+<img width="953" alt="image" src="https://github.com/kimIHNiCole/MatchDog/assets/142763051/cf0c2fb1-f325-4e1d-a12c-46498d4bf9f9">
+<img width="346" alt="image" src="https://github.com/kimIHNiCole/MatchDog/assets/142763051/0ccf0ee8-2252-40c7-bb48-b184b53047aa">
 
 
+<br><br/>
 
+### 프로필 페이지
+<img width="492" alt="image" src="https://github.com/kimIHNiCole/MatchDog/assets/142763051/fa0dca07-e50f-43b0-98d3-f34797cd6aac">
+
+<br><br/>
+
+### 관리자 페이지
+<img width="957" alt="image" src="https://github.com/kimIHNiCole/MatchDog/assets/142763051/c77a2292-5700-4067-a0f0-6b9e3a06f44f">
+
+<br><br/>
 
 
 ## DB ERD
